@@ -1,3 +1,4 @@
 my first git file
 
 this is a commit in the master
+this is another commit in the master
